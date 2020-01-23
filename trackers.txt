@@ -1,3 +1,17 @@
+udp://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
+
+udp://tracker.pirateparty.gr:6969/announce
+
+http://explodie.org:6969/announce
+
+http://torrent.nwps.ws/announce
+
+udp://tracker.cyberia.is:6969/announce
+
 udp://explodie.org:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
